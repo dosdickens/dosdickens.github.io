@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dosdickens.github.io
+title: dosdickens
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
